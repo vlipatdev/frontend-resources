@@ -111,3 +111,5 @@
 - https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
 - https://research.hackerrank.com/developer-skills/2019 - HackerRank 2019 Developer Skills Report
 - https://carbon.now.sh/ - Create and share beautiful images of your source code.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
