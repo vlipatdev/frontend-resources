@@ -1,10 +1,14 @@
+<p align="center">
 <img src="undraw_tree_swing_ub4f.png" width="300" alt="header-image">
+</p>
+<h1 align="center"> Front-end Resources </h1>
+<p align="center">A collection of useful tools and websites for front-end web developers.</p>
 
-# Front-end Resources
-
-A collection of useful tools and websites for front-end web developers.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<p align="center"
+  <a href="http://makeapullrequest.com">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+</p>
 
 #### Validators
 - https://validator.w3.org/ - W3C Markup Validator
