@@ -34,11 +34,15 @@
 - https://undraw.co/illustrations
 
 #### Prototyping
-- https://www.adobe.com/products/xd.html - Free tool from Adobe
+- https://www.adobe.com/products/xd.html - Free software from Adobe
 
 #### Online CSS Tools
 - https://autoprefixer.github.io/
 - https://cssminifier.com/
+
+#### JavaScript Coding Challenges
+- https://javascript30.com/
+- https://www.codewars.com/
 
 #### Performance Testing
 - https://web.dev/
