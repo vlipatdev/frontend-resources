@@ -1,6 +1,10 @@
+<img src="undraw_tree_swing_ub4f.png" width="300" alt="header-image">
+
 # Front-end Resources
 
-<img src="undraw_tree_swing_ub4f.png" width="250" alt="header-image">
+A collection of useful tools and websites for front-end web developers.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 #### Validators
 - https://validator.w3.org/ - W3C Markup Validator
@@ -12,28 +16,31 @@
 - https://webgradients.com/
 - http://www.uigradients.com/
 
-#### Icons
+#### Free Icons
 - https://icomoon.io/
 - https://lineicons.com/
 
 #### Offline SVG Sprite Sheet Generator
 - https://github.com/thomasjbradley/spritebot
 
+#### Open-Source Illustrations
+- https://undraw.co/illustrations
+
+#### Online Image Manipulation Tools
+- https://imageresize.org/
+- https://imagecompressor.com/ - Compress up to 20 images at a time
+
+#### Online Favicon Generator
+- https://www.favicon-generator.org/
+
 #### Responsive Testing Tools
 - https://sizzy.co/
 - http://quirktools.com/screenfly/
 
 #### Screen Reader
-- https://www.nvaccess.org/ - Free Screen Reader for Microsoft Windows
+- https://www.nvaccess.org/ - Free screen reader for Microsoft Windows
 
-#### Online Image Manipulation
-- https://imageresize.org/
-- https://imagecompressor.com/ - Compress up to 20 images at a time
-
-#### Open-Source Illustrations
-- https://undraw.co/illustrations
-
-#### Prototyping
+#### Prototyping Tool
 - https://www.adobe.com/products/xd.html - Free software from Adobe
 
 #### Online CSS Tools
@@ -44,18 +51,15 @@
 - https://javascript30.com/
 - https://www.codewars.com/
 
-#### Performance Testing
-- https://web.dev/
-- https://gtmetrix.com/
-
 #### Online Cheatsheets
 - https://devhints.io/
 
 #### Offline Documentations
 - https://zealdocs.org/
 
-#### Online Favicon Generator
-- https://www.favicon-generator.org/
+#### Performance Testing
+- https://web.dev/
+- https://gtmetrix.com/
 
 #### Google Analytics
 - https://analytics.google.com/analytics/web/
@@ -78,7 +82,7 @@
 #### Free Courses
 - https://classroom.udacity.com/courses/ud891 - Web Accessibility by Google
 - https://www.edx.org/course/cs50s-introduction-to-computer-science - CS50's Introduction to Computer Science by Harvard
-- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript - CS50 Web Programming with Python and Javascript
+- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript - CS50's Web Programming with Python and Javascript
 
 #### YouTube Channels
 - https://www.youtube.com/user/ChromeDevelopers - Google Chrome Developers
@@ -110,6 +114,5 @@
 #### Other Resources
 - https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
 - https://research.hackerrank.com/developer-skills/2019 - HackerRank 2019 Developer Skills Report
-- https://carbon.now.sh/ - Create and share beautiful images of your source code.
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+- https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
+- https://carbon.now.sh/ - Create and share beautiful images of your source code
