@@ -119,4 +119,9 @@
 - https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
 - https://research.hackerrank.com/developer-skills/2019 - HackerRank 2019 Developer Skills Report
 - https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
+- https://caniuse.com/ - Support tables for HTML, CSS, etc
 - https://carbon.now.sh/ - Create and share beautiful images of your source code
+
+<br/>
+
+[:arrow_up: Back to top](#-front-end-resources-)
