@@ -1,8 +1,8 @@
 <p align="center">
-<img src="undraw_tree_swing_ub4f.png" width="300" alt="header-image">
+<img src="computer-illustration.png" width="500" alt="header-image">
 </p>
 <h1 align="center"> Front-end Resources </h1>
-<p align="center">A collection of useful tools and websites for front-end web developers.</p>
+<p align="center">A collection of useful tools and websites for front-end web developers.<br/>Everything listed here is free unless denoted by :gem:.</p>
 
 <p align="center"
   <a href="http://makeapullrequest.com">
@@ -10,83 +10,89 @@
   </a>
 </p>
 
-#### Validators
-- https://validator.w3.org/ - W3C Markup Validator
-- https://jigsaw.w3.org/css-validator/ - W3C CSS Validator
+#### Planning Tool
+- https://trello.com/
+
+#### Prototyping Tool
+- [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly free software from Adobe
 
 #### Color Tools
-- https://coolors.co/app - Color Palette Generator
-- https://flatuicolors.com/ - Flat UI Colors
+- https://coolors.co/app - color palette generator
+- https://flatuicolors.com/ - flat UI colors
+
+#### Gradient Tools
 - https://webgradients.com/
 - http://www.uigradients.com/
 
-#### Free Icons
+#### Icons
 - https://icomoon.io/
 - https://lineicons.com/
 
-#### Offline SVG Sprite Sheet Generator
-- https://github.com/thomasjbradley/spritebot
-
-#### Open-Source Illustrations
+#### Illustrations
 - https://undraw.co/illustrations
+- https://lukaszadam.com/illustrations
 
-#### Online Image Manipulation Tools
-- https://imageresize.org/
-- https://imagecompressor.com/ - Compress up to 20 images at a time
+#### SVG Tools
+- https://github.com/thomasjbradley/spritebot - offline SVG sprite sheet generator
+- https://www.blobmaker.app/ - online SVG blob maker
 
-#### Online Favicon Generator
+#### Image Tools
+- https://imageresize.org/ - resize and optimize images
+- https://imagecompressor.com/ - compress up to 20 images at a time
+
+#### Favicon Generator
 - https://www.favicon-generator.org/
 
-#### Responsive Testing Tools
-- https://sizzy.co/
-- http://quirktools.com/screenfly/
-
-#### Screen Reader
-- https://www.nvaccess.org/ - Free screen reader for Microsoft Windows
-
-#### Prototyping Tool
-- https://www.adobe.com/products/xd.html - Free software from Adobe
+#### Validators
+- https://validator.w3.org/ - W3C markup validator
+- https://jigsaw.w3.org/css-validator/ - W3C CSS validator
 
 #### Online CSS Tools
-- https://autoprefixer.github.io/
-- https://cssminifier.com/
+- https://autoprefixer.github.io/ - online CSS autoprefixer
+- https://cssminifier.com/ - online CSS minifier
 
-#### JavaScript Coding Challenges
-- https://javascript30.com/
-- https://www.codewars.com/
+#### Accesibility Tools
+- https://www.nvaccess.org/ - screen reader for Microsoft Windows
+- [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) - screen reader by Google
+- [axe Chrome Extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - accessibility testing
 
-#### Online Cheatsheets
-- https://devhints.io/
+#### Analytics
+- https://analytics.google.com/analytics/web/ - Google Analytics
 
-#### Offline Documentations
-- https://zealdocs.org/
-
-#### Performance Testing
-- https://web.dev/
-- https://gtmetrix.com/
-
-#### Google Analytics
-- https://analytics.google.com/analytics/web/
-
-#### Deployment
+#### Static Deployment
 - https://pages.github.com/
 - https://www.netlify.com/
 - https://surge.sh/
 
 #### Domain Name Registration
-- https://domains.google/
-- https://www.namecheap.com/
+- https://domains.google/ :gem:
+- https://www.namecheap.com/ :gem:
 
-#### Chrome Extensions
-- [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) - Color Picker
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - JSON Beautifier
-- [axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Accessibility Testing
-- [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) - Screen Reader by Google
+#### Responsive Testing Tools
+- https://sizzy.co/
+- http://quirktools.com/screenfly/
 
-#### Free Courses
+#### Performance Testing Tools
+- https://web.dev/
+- https://gtmetrix.com/
+
+#### Readings
+- https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
+- https://research.hackerrank.com/developer-skills/2019 - HackerRank 2019 Developer Skills Report
+- http://www.htmlandcssbook.com/ - HTML & CSS Book by Jon Duckett :gem:
+- https://github.com/getify/You-Dont-Know-JS - You Don't Know JS Book Series
+- https://eloquentjavascript.net/ - Eloquent JavaScript Book
+- https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
+- https://devhints.io/ - online cheatsheets
+
+#### JavaScript Coding Challenges
+- https://javascript30.com/ - build 30 things with pure JavaScript
+- https://www.codewars.com/ - solve JavaScript challenges and learn from others
+
+#### Courses
 - https://classroom.udacity.com/courses/ud891 - Web Accessibility by Google
 - https://www.edx.org/course/cs50s-introduction-to-computer-science - CS50's Introduction to Computer Science by Harvard
-- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript - CS50's Web Programming with Python and Javascript
+- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript - CS50's Web Programming with Python and JavaScript
 
 #### YouTube Channels
 - https://www.youtube.com/user/ChromeDevelopers - Google Chrome Developers
@@ -113,14 +119,12 @@
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions - Front-end Developer Interview Questions
 - https://github.com/thedaviddias/Front-End-Checklist - Front-end Checklist
 - https://github.com/thedaviddias/Front-End-Performance-Checklist - Front-end Performance Checklist
-- https://github.com/30-seconds/30-seconds-of-css - CSS Snippets
+- https://github.com/30-seconds/30-seconds-of-css - 30 Seconds of CSS
 
 #### Other Resources
-- https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
-- https://research.hackerrank.com/developer-skills/2019 - HackerRank 2019 Developer Skills Report
-- https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
-- https://caniuse.com/ - Support tables for HTML, CSS, etc
-- https://carbon.now.sh/ - Create and share beautiful images of your source code
+- https://caniuse.com/ - support tables for HTML, CSS, etc
+- https://carbon.now.sh/ - create and share beautiful images of your source code
+- https://zealdocs.org/ - offline documentation browser
 
 <br/>
 
