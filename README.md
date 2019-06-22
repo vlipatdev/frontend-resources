@@ -1,8 +1,8 @@
 <p align="center">
-<img src="computer-illustration.png" width="500" alt="header-image">
+<img src="computer-illustration.png" width="300" alt="header-image">
 </p>
 <h1 align="center"> Front-end Resources </h1>
-<p align="center">A collection of useful tools and websites for front-end web developers.<br/>Everything listed here is free unless denoted by :gem:.</p>
+<p align="center">A curated collection of useful tools and websites for front-end web developers.<br/>Everything listed here is free unless denoted by :gem:.</p>
 
 <p align="center"
   <a href="http://makeapullrequest.com">
@@ -19,6 +19,7 @@
 #### Color Tools
 - https://coolors.co/app - color palette generator
 - https://flatuicolors.com/ - flat UI colors
+- https://www.materialui.co/colors - material design colors
 
 #### Gradient Tools
 - https://webgradients.com/
@@ -82,6 +83,7 @@
 - http://www.htmlandcssbook.com/ - HTML & CSS Book by Jon Duckett :gem:
 - https://github.com/getify/You-Dont-Know-JS - You Don't Know JS Book Series
 - https://eloquentjavascript.net/ - Eloquent JavaScript Book
+- https://refactoringui.com/book/ - Refactoring UI Book :gem:
 - https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
 - https://devhints.io/ - online cheatsheets
 
@@ -99,7 +101,6 @@
 - https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA - W3C Web Accessibility Initiative
 - https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA - Brad Traversy
 - https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw - Colt Steele
-- https://www.youtube.com/user/13rOzProductions - Ian Schoonover
 - https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w - Academind
 - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg - Net Ninja
 - https://www.youtube.com/user/programmingwithmosh - Programming with Mosh
