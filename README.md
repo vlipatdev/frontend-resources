@@ -14,8 +14,9 @@
 - https://trello.com/
 
 #### Prototyping Tools
-- [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly free software from Adobe
+- [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly free prototyping software from Adobe
 - [VisBug Chrome Extension](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - edit any page inside the browser
+- https://themockup.club/ - free device mockups
 
 #### Color Tools
 - https://coolors.co/app - color palette generator
@@ -32,10 +33,16 @@
 #### Icons
 - https://icomoon.io/
 - https://lineicons.com/
+- https://feathericons.com/
+- https://iconstore.co/
+- https://ionicons.com/
+- https://www.xicons.co/
+- https://simpleicons.org/ - brand icons
 
 #### Illustrations
 - https://undraw.co/illustrations
 - https://lukaszadam.com/illustrations
+- https://gallery.manypixels.co/
 
 #### SVG Tools
 - https://github.com/thomasjbradley/spritebot - offline SVG sprite sheet generator
