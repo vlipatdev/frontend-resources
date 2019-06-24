@@ -13,8 +13,9 @@
 #### Planning Tool
 - https://trello.com/
 
-#### Prototyping Tool
+#### Prototyping Tools
 - [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly free software from Adobe
+- [VisBug Chrome Extension](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - edit any page inside the browser
 
 #### Color Tools
 - https://coolors.co/app - color palette generator
@@ -24,6 +25,9 @@
 #### Gradient Tools
 - https://webgradients.com/
 - http://www.uigradients.com/
+
+#### Font Tools
+- https://fontflipper.com/upload - like Tinder but for fonts
 
 #### Icons
 - https://icomoon.io/
@@ -126,6 +130,7 @@
 - https://caniuse.com/ - support tables for HTML, CSS, etc
 - https://carbon.now.sh/ - create and share beautiful images of your source code
 - https://zealdocs.org/ - offline documentation browser
+- https://bundlephobia.com/ - find the cost of adding a npm package to your bundle
 
 <br/>
 
