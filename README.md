@@ -14,7 +14,7 @@
 - https://trello.com/
 
 #### Prototyping Tools
-- [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly free prototyping software from Adobe
+- [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly prototyping software from Adobe
 - [VisBug Chrome Extension](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - edit any page inside the browser
 - https://themockup.club/ - free device mockups
 
@@ -31,18 +31,19 @@
 - https://fontflipper.com/upload - like Tinder but for fonts
 
 #### Icons
-- https://icomoon.io/
 - https://lineicons.com/
 - https://feathericons.com/
-- https://iconstore.co/
 - https://ionicons.com/
+- https://icomoon.io/
 - https://www.xicons.co/
+- https://iconstore.co/
 - https://simpleicons.org/ - brand icons
 
 #### Illustrations
 - https://undraw.co/illustrations
-- https://lukaszadam.com/illustrations
 - https://gallery.manypixels.co/
+- https://iradesign.io/
+- https://lukaszadam.com/illustrations
 
 #### SVG Tools
 - https://github.com/thomasjbradley/spritebot - offline SVG sprite sheet generator
