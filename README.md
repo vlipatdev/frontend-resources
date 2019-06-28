@@ -82,7 +82,7 @@
 - https://www.namecheap.com/ :gem:
 
 #### Responsive Testing Tools
-- https://sizzy.co/
+- https://sizzy.co/ :gem:
 - http://quirktools.com/screenfly/
 
 #### Performance Testing Tools
