@@ -15,6 +15,7 @@
 
 #### Prototyping Tools
 - [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly prototyping software from Adobe
+- https://wireframe.cc/ - minimal wireframing tool
 - [VisBug Chrome Extension](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - edit any page inside the browser
 - https://themockup.club/ - free device mockups
 
@@ -59,6 +60,7 @@
 #### Validators
 - https://validator.w3.org/ - W3C markup validator
 - https://jigsaw.w3.org/css-validator/ - W3C CSS validator
+- https://validatejavascript.com/ - JavaScript validator built using ESLint
 
 #### Online CSS Tools
 - https://autoprefixer.github.io/ - online CSS autoprefixer
