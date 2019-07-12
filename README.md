@@ -55,7 +55,7 @@
 - https://imagecompressor.com/ - compress up to 20 images at a time
 
 #### Favicon Generator
-- https://www.favicon-generator.org/
+- https://www.favicon-generator.org/ - favicon generator
 
 #### Validators
 - https://validator.w3.org/ - W3C markup validator
@@ -88,16 +88,17 @@
 - http://quirktools.com/screenfly/
 
 #### Performance Testing Tools
-- https://web.dev/
+- https://web.dev/ - 
 - https://gtmetrix.com/
 
 #### Readings
 - https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
 - https://research.hackerrank.com/developer-skills/2019 - HackerRank 2019 Developer Skills Report
 - http://www.htmlandcssbook.com/ - HTML & CSS Book by Jon Duckett :gem:
+- https://refactoringui.com/book/ - Refactoring UI Book :gem:
 - https://github.com/getify/You-Dont-Know-JS - You Don't Know JS Book Series
 - https://eloquentjavascript.net/ - Eloquent JavaScript Book
-- https://refactoringui.com/book/ - Refactoring UI Book :gem:
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Learning JavaScript Design Patterns Book
 - https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
 - https://devhints.io/ - online cheatsheets
 
@@ -141,6 +142,7 @@
 - https://carbon.now.sh/ - create and share beautiful images of your source code
 - https://zealdocs.org/ - offline documentation browser
 - https://bundlephobia.com/ - find the cost of adding a npm package to your bundle
+- https://www.wappalyzer.com/ - identify technologies on websites
 
 <br/>
 
