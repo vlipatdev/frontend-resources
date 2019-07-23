@@ -11,7 +11,7 @@
 </p>
 
 #### Planning Tool
-- https://trello.com/
+- https://trello.com/ - easy, free, flexible, and visual way to manage your projects and organize anything
 
 #### Prototyping Tools
 - [Adobe XD](https://www.adobe.com/products/xd.html) - beginner-friendly prototyping software from Adobe
@@ -25,26 +25,26 @@
 - https://www.materialui.co/colors - material design colors
 
 #### Gradient Tools
-- https://webgradients.com/
-- http://www.uigradients.com/
+- https://webgradients.com/ - fresh background gradients
+- http://www.uigradients.com/ - beautiful colored gradients
 
 #### Font Tools
 - https://fontflipper.com/upload - like Tinder but for fonts
 
 #### Icons
-- https://lineicons.com/
-- https://feathericons.com/
-- https://ionicons.com/
-- https://icomoon.io/
-- https://www.xicons.co/
-- https://iconstore.co/
+- https://lineicons.com/ - 450+ free line icons for designers and developers
+- https://feathericons.com/ - simply beautiful open source icons
+- https://ionicons.com/ - beautifully crafted open source icons
+- https://icomoon.io/ - 5500+ vector icons
+- https://www.xicons.co/ - free vector icons
+- https://iconstore.co/ - free icons by first-class designers
 - https://simpleicons.org/ - brand icons
 
 #### Illustrations
-- https://undraw.co/illustrations
-- https://gallery.manypixels.co/
-- https://iradesign.io/
-- https://lukaszadam.com/illustrations
+- https://undraw.co/illustrations - 400+ customizable open source illustrations
+- https://gallery.manypixels.co/ - royalty-free illustrations
+- https://iradesign.io/ - build your own amazing illustrations
+- https://lukaszadam.com/illustrations - free illustrations
 
 #### SVG Tools
 - https://github.com/thomasjbradley/spritebot - offline SVG sprite sheet generator
@@ -69,27 +69,28 @@
 #### Accesibility Tools
 - https://www.nvaccess.org/ - screen reader for Microsoft Windows
 - [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) - screen reader by Google
-- [axe Chrome Extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - accessibility testing
+- [axe Chrome Extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - accessibility testing in Chrome Developer Tools
+
 
 #### Analytics
 - https://analytics.google.com/analytics/web/ - Google Analytics
 
 #### Static Deployment
-- https://pages.github.com/
-- https://www.netlify.com/
-- https://surge.sh/
+- https://pages.github.com/ - hosted directly from your GitHub repository
+- https://www.netlify.com/ - deploy your site in 30 seconds
+- https://surge.sh/ - simple, single-command web publishing
 
 #### Domain Name Registration
-- https://domains.google/ :gem:
-- https://www.namecheap.com/ :gem:
+- https://domains.google/ :gem: - find a domain, create a site, and get custom email
+- https://www.namecheap.com/ :gem: - cheap domain names
 
 #### Responsive Testing Tools
-- https://sizzy.co/ :gem:
-- http://quirktools.com/screenfly/
+- https://sizzy.co/ :gem: - browser made for responsive design
+- http://quirktools.com/screenfly/ - test your website at different screen resolutions
 
 #### Performance Testing Tools
-- https://web.dev/ - 
-- https://gtmetrix.com/
+- https://web.dev/ - see how well your website performs; uses Lighthouse
+- https://gtmetrix.com/ - tool that analyzes your page's speed performance
 
 #### Readings
 - https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Handbook 2019
@@ -126,8 +127,8 @@
 - https://www.codenewbie.org/podcast - CodeNewbie Podcast
 
 #### Subreddits
-- https://www.reddit.com/r/Frontend/
-- https://www.reddit.com/r/webdev/
+- https://www.reddit.com/r/Frontend/ - subreddit for front-end web developers
+- https://www.reddit.com/r/webdev/ - subreddit for web developers
 
 #### GitHub Repositories
 - https://github.com/kamranahmedse/developer-roadmap - Developer Roadmap
