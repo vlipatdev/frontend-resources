@@ -62,7 +62,10 @@
 - https://jigsaw.w3.org/css-validator/ - W3C CSS validator
 - https://validatejavascript.com/ - JavaScript validator built using ESLint
 
-#### Online CSS Tools
+#### CSS Tools
+- https://tobiasahlin.com/spinkit/ - simple CSS spinners
+- https://jonsuh.com/hamburgers/ - CSS-animated hamburgers
+- https://emilkowalski.github.io/css-effects-snippets/ - CSS effects snippets
 - https://autoprefixer.github.io/ - online CSS autoprefixer
 - https://cssminifier.com/ - online CSS minifier
 
@@ -76,7 +79,7 @@
 - https://analytics.google.com/analytics/web/ - Google Analytics
 
 #### Static Deployment
-- https://pages.github.com/ - hosted directly from your GitHub repository
+- https://pages.github.com/ - free web hosting service by GitHub
 - https://www.netlify.com/ - deploy your site in 30 seconds
 - https://surge.sh/ - simple, single-command web publishing
 
