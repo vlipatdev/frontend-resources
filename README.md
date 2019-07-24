@@ -20,6 +20,7 @@
 - https://themockup.club/ - free device mockups
 
 #### Color Tools
+- https://mycolor.space/ - enter a color and generate nice color palettes
 - https://coolors.co/app - color palette generator
 - https://flatuicolors.com/ - flat UI colors
 - https://www.materialui.co/colors - material design colors
@@ -29,7 +30,8 @@
 - http://www.uigradients.com/ - beautiful colored gradients
 
 #### Font Tools
-- https://fontflipper.com/upload - like Tinder but for fonts
+- https://fonts.google.com/ - Google Fonts
+- https://fontflipper.com/ - find free fonts
 
 #### Icons
 - https://lineicons.com/ - 450+ free line icons for designers and developers
@@ -56,6 +58,9 @@
 
 #### Favicon Generator
 - https://www.favicon-generator.org/ - favicon generator
+
+#### Meta Tags Generator
+- https://metatags.io/ - preview, edit, and generate meta tags
 
 #### Validators
 - https://validator.w3.org/ - W3C markup validator
