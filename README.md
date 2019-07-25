@@ -52,6 +52,10 @@
 - https://github.com/thomasjbradley/spritebot - offline SVG sprite sheet generator
 - https://www.blobmaker.app/ - online SVG blob maker
 
+#### Free Quality Images
+- https://unsplash.com/ - The internet’s source of freely useable images.
+- https://www.pexels.com/ - The best free stock photos & videos shared by talented creators.
+
 #### Image Tools
 - https://imageresize.org/ - resize and optimize images
 - https://imagecompressor.com/ - compress up to 20 images at a time
