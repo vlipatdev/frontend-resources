@@ -1,0 +1,11 @@
+.Label {
+	font-size: 1.2rem;
+	color: #6a1b9a;
+	background: #f3e5f5;
+	padding: 3px 5px;
+	border-radius: 3px;
+	font-weight: 600;
+	text-transform: uppercase;
+	display: inline-block;
+	margin-right: 10px;
+}

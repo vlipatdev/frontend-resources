@@ -1,0 +1,94 @@
+html {
+	font-size: 62.5%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1.6rem;
+}
+
+*,
+*::before,
+*::after {
+	transition: all 0.2s;
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+.App-header {
+	text-align: center;
+	min-height: 25rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 3rem 0;
+}
+
+.App-logo {
+	height: 15rem;
+	width: 15rem;
+}
+
+.App-heading {
+	font-size: 2rem;
+}
+
+.App-subheading {
+	margin-bottom: 1rem;
+	width: 90%;
+}
+
+.App-nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	width: 60%;
+	margin-top: 3rem;
+}
+
+.App-navlink {
+	padding: 0.5rem 1rem;
+	margin: 5px;
+	text-decoration: none;
+	background: #ffffff;
+	border: 1px solid #d1c4e9;
+	border-radius: 3px;
+	color: #7e57c2;
+}
+.App-navlink:hover,
+.active {
+	color: #ffffff;
+	background: #7e57c2;
+	background: linear-gradient(to right, #7e57c2, #a044ff);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.App-footer {
+	height: 10rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 1.4rem;
+}
+.App-footer a,
+.App-footer a:visited {
+	text-decoration: none;
+	color: #000000;
+	font-weight: 600;
+}
+
+@media screen and (max-width: 768px) {
+	.App-nav {
+		width: 90%;
+	}
+
+	.App-navlink {
+		font-size: 1.4rem;
+	}
+}
