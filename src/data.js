@@ -32,6 +32,24 @@ const data = [
         labels: ['free', 'open-source']
       },
       {
+        title: 'Animate CSS',
+        description: 'A cross-browser library of CSS animations',
+        link: 'http://daneden.github.io/animate.css',
+        labels: ['free', 'open-source']
+      },
+      {
+        title: 'animista',
+        description: 'CSS animations on demand',
+        link: 'http://animista.net/',
+        labels: ['free']
+      },
+      {
+        title: 'CSSeffectsSnippets',
+        description: 'A collection of CSS effects',
+        link: 'https://emilkowalski.github.io/css-effects-snippets/',
+        labels: ['free', 'open-source']
+      },
+      {
         title: 'SpinKit',
         description: 'A collection of loading indicators animated with CSS',
         link: 'https://tobiasahlin.com/spinkit/',
@@ -42,12 +60,6 @@ const data = [
         description: 'Tasty CSS-animated hamburgers',
         link: 'https://jonsuh.com/hamburgers/',
         labels: ['free']
-      },
-      {
-        title: 'CSSeffectsSnippets',
-        description: 'A collection of CSS effects',
-        link: 'https://emilkowalski.github.io/css-effects-snippets/',
-        labels: ['free', 'open-source']
       },
       {
         title: 'Autoprefixer CSS online',
@@ -67,6 +79,12 @@ const data = [
     type: 'Icons',
     resources: [
       {
+        title: 'Font Awesome',
+        description: 'The web\'s most popular icon set and toolkit',
+        link: 'https://fontawesome.com/',
+        labels: ['free', 'open-source']
+      },
+      {
         title: 'LineIcons',
         description: '450+ free line icons for designers and developers',
         link: 'https://lineicons.com/',
@@ -82,6 +100,12 @@ const data = [
         title: 'Ionicons',
         description: 'Beautifully crafted open-source icons',
         link: 'https://ionicons.com/',
+        labels: ['free', 'open-source']
+      },
+      {
+        title: 'Material Design Icons',
+        description: 'Delightful, beautifully crafted symbols for common actions and items',
+        link: 'https://material.io/resources/icons/?style=baseline',
         labels: ['free', 'open-source']
       },
       {
@@ -143,18 +167,6 @@ const data = [
     type: 'Colors',
     resources: [
       {
-        title: 'Color Space',
-        description: 'Color palettes generator and color gradient tool',
-        link: 'https://mycolor.space/',
-        labels: ['free']
-      },
-      {
-        title: 'Coolors',
-        description: 'Color palettes generator',
-        link: 'https://coolors.co/app',
-        labels: ['free']
-      },
-      {
         title: 'Flat UI Colors 2',
         description: 'A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs',
         link: 'https://flatuicolors.com/',
@@ -164,6 +176,30 @@ const data = [
         title: 'Material Design Colors',
         description: 'Material design colors',
         link: 'https://www.materialui.co/colors',
+        labels: ['free']
+      },
+      {
+        title: 'Color Hunt',
+        description: 'A free and open platform for color inspiration with thousands of trendy hand-picked color palettes',
+        link: 'https://colorhunt.co/',
+        labels: ['free']
+      },
+      {
+        title: 'LOL Colors',
+        description: 'Curated color palette inspiration',
+        link: 'https://www.webdesignrankings.com/resources/lolcolors/',
+        labels: ['free']
+      },
+      {
+        title: 'Color Space',
+        description: 'Color palettes generator and color gradient tool',
+        link: 'https://mycolor.space/',
+        labels: ['free']
+      },
+      {
+        title: 'Coolors',
+        description: 'Color palettes generator',
+        link: 'https://coolors.co/app',
         labels: ['free']
       },
       {
@@ -197,6 +233,40 @@ const data = [
         labels: ['free']
       },
       {
+        title: 'Burst',
+        description:
+          'Free stock photos for websites and commercial use',
+        link: 'https://burst.shopify.com/',
+        labels: ['free']
+      },
+      {
+        title: 'ISO Republic',
+        description:
+          'Thousands of Free High-Resolution CC0 Photos and Videos',
+        link: 'https://isorepublic.com/',
+        labels: ['free']
+      },
+      {
+        title: 'Pixabay',
+        description:
+          'Stunning free images & royalty free stock',
+        link: 'https://pixabay.com/',
+        labels: ['free']
+      },
+      {
+        title: 'StockSnap.io',
+        description: 'Beautiful free stock photos',
+        link: 'https://stocksnap.io/',
+        labels: ['free']
+      },
+      {
+        title: 'Photopea',
+        description:
+          'Advanced online photo editor',
+        link: 'https://www.photopea.com/',
+        labels: ['free']
+      },
+      {
         title: 'Online Image Compressor',
         description: 'Compress up to 20 images at a time',
         link: 'https://imagecompressor.com/',
@@ -224,6 +294,12 @@ const data = [
         description: 'Solve JavaScript challenges and learn from others',
         link: 'https://www.codewars.com/',
         labels: ['free']
+      },
+      {
+        title: '30 seconds of code',
+        description: 'A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less',
+        link: 'https://30secondsofcode.org/',
+        labels: ['free', 'open-source']
       },
       {
         title: 'ValidateJavaScript',
@@ -294,7 +370,7 @@ const data = [
       },
       {
         title: "CS50's Web Programming with Python and JavaScript",
-        description: 'This course dives more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap',
+        description: 'Design and implement web apps with Python, JavaScript, and SQL',
         link:
           'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript',
         labels: ['free']
@@ -349,7 +425,7 @@ const data = [
       },
       {
         title: 'Web Content Accessibility Guidelines (WCAG) 2.1',
-        description: 'Web Content Accessibility Guidelines (WCAG) 2.1 covers a wide range of recommendations for making Web content more accessible',
+        description: 'Covers a wide range of recommendations for making Web content more accessible',
         link: 'https://www.w3.org/TR/WCAG21/',
         labels: ['free']
       }

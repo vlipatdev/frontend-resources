@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 976px) {
 	.Resources {
-		padding: 5rem 2rem 1rem 2rem;
+		padding: 5rem 2rem 0 2rem;
 	}
 
 	.Resources-filler {

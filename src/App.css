@@ -37,3 +37,9 @@
 	color: #000000;
 	font-weight: 600;
 }
+
+@media screen and (max-width: 768px) {
+	.App-subheading {
+		font-size: 1.4rem;
+	}
+}
