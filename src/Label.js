@@ -3,7 +3,9 @@ import './Label.css';
 
 class Label extends Component {
 	render() {
-		return <div className="Label">{this.props.label}</div>;
+		return (
+			<div className={`Label ${this.props.label}`}>{this.props.label}</div>
+		);
 	}
 }
 

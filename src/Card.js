@@ -9,8 +9,8 @@ class Card extends Component {
 				<h3 className="Card-title">{this.props.title}</h3>
 				<p className="Card-description">{this.props.description}</p>
 				<div className="Card-label-container">
-					{this.props.labels.map((label) => (
-						<Label label={label} />
+					{this.props.labels.map((label, idx) => (
+						<Label key={idx} label={label} />
 					))}
 				</div>
 			</a>

@@ -16,8 +16,9 @@ class Resources extends Component {
 				<div className="Resources">
 					<h2 className="Resources-heading">{this.props.match.params.name}</h2>
 					<div className="Resources-card-container">
-						{this.props.data[idx].resources.map((el) => (
+						{this.props.data[idx].resources.map((el, idx) => (
 							<Card
+								key={idx}
 								title={el.title}
 								description={el.description}
 								link={el.link}

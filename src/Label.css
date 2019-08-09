@@ -1,11 +1,24 @@
 .Label {
-	font-size: 1.2rem;
-	color: #6a1b9a;
-	background: #f3e5f5;
+	font-size: 1rem;
 	padding: 3px 5px;
 	border-radius: 3px;
 	font-weight: 600;
 	text-transform: uppercase;
 	display: inline-block;
-	margin-right: 10px;
+	margin-right: 5px;
+}
+
+.open-source {
+	color: #6a1b9a;
+	background: #f3e5f5;
+}
+
+.free {
+	color: #0277bd;
+	background: #e1f5fe;
+}
+
+.premium {
+	color: #ad1457;
+	background: #fce4ec;
 }

@@ -10,7 +10,7 @@
 	background: #ffffff;
 	cursor: pointer;
 	text-decoration: none;
-	color: #000000;
+	color: rgba(0, 0, 0, 0.7);
 }
 .Card:hover {
 	transform: scale(1.05);
@@ -27,8 +27,14 @@
 	margin-bottom: 5px;
 }
 
+@media screen and (max-width: 976px) {
+	.Card {
+		width: 40%;
+	}
+}
+
 @media screen and (max-width: 768px) {
 	.Card {
-		width: 95%;
+		width: 100%;
 	}
 }
