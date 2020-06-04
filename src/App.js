@@ -22,16 +22,30 @@ class App extends Component {
 						A curated collection of useful tools and websites for front-end web
 						developers in 2020.
 					</p>
-					<a
-						className="github-button"
-						href="https://github.com/vlipatdev/frontend-resources"
-						data-icon="octicon-star"
-						data-size="small"
-						data-show-count="true"
-						aria-label="Star vlipatdev/frontend-resources on GitHub"
-					>
-						Star
-					</a>
+					<div className="App-button-container">
+						<a
+							className="github-button App-star-button"
+							href="https://github.com/vlipatdev/frontend-resources"
+							data-icon="octicon-star"
+							data-size="large"
+							data-show-count="true"
+							aria-label="Star vlipatdev/frontend-resources on GitHub"
+						>
+							Star
+						</a>
+						<div className="App-button-divider" />
+						<a
+							class="github-button App-fork-button"
+							href="https://github.com/vlipatdev/frontend-resources"
+							data-icon="octicon-repo-forked"
+							data-size="large"
+							data-show-count="true"
+							aria-label="Fork vlipatdev/frontend-resources on GitHub"
+						>
+							Fork
+						</a>
+					</div>
+
 					<Nav data={this.props.data} />
 				</header>
 				<Route

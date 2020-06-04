@@ -16,7 +16,7 @@ const data = [
 			},
 			{
 				title: 'Favicon Generator',
-				description: 'Convert any GIF, PNG, or JPEG to ICO',
+				description: 'Convert any GIF, PNG, or JPG to ICO',
 				link: 'https://www.favicon-generator.org/',
 				labels: ['free'],
 			},
@@ -27,14 +27,14 @@ const data = [
 		resources: [
 			{
 				title: 'W3C CSS Validator',
-				description: 'Validate your CSS',
+				description: 'CSS Validation Service',
 				link: 'https://jigsaw.w3.org/css-validator/',
 				labels: ['free', 'open-source'],
 			},
 			{
-				title: 'Animate CSS',
-				description: 'A cross-browser library of CSS animations',
-				link: 'http://daneden.github.io/animate.css',
+				title: 'Animate.css',
+				description: 'Just-add-water CSS animations',
+				link: 'https://animate.style/',
 				labels: ['free', 'open-source'],
 			},
 			{
@@ -63,7 +63,7 @@ const data = [
 			},
 			{
 				title: 'Autoprefixer CSS online',
-				description: 'Online CSS prefixer',
+				description: 'Autoprefixer parses your CSS and adds vendor prefixes',
 				link: 'https://autoprefixer.github.io/',
 				labels: ['free'],
 			},
@@ -85,15 +85,16 @@ const data = [
 				labels: ['free', 'open-source'],
 			},
 			{
-				title: 'LineIcons',
-				description: '450+ free line icons for designers and developers',
-				link: 'https://lineicons.com/',
-				labels: ['free'],
-			},
-			{
 				title: 'Feather',
 				description: 'Simply beautiful open-source icons',
 				link: 'https://feathericons.com/',
+				labels: ['free', 'open-source'],
+			},
+			{
+				title: 'Eva Icons',
+				description:
+					'A pack of more than 480 beautifully crafted Open Source icons for common actions and items',
+				link: 'https://akveo.github.io/eva-icons/#/',
 				labels: ['free', 'open-source'],
 			},
 			{
@@ -108,6 +109,12 @@ const data = [
 					'Delightful, beautifully crafted symbols for common actions and items',
 				link: 'https://material.io/resources/icons/?style=baseline',
 				labels: ['free', 'open-source'],
+			},
+			{
+				title: 'LineIcons',
+				description: '450+ free line icons for designers and developers',
+				link: 'https://lineicons.com/',
+				labels: ['free'],
 			},
 			{
 				title: 'IcoMoon',
@@ -132,35 +139,6 @@ const data = [
 				description: 'Free SVG icons for popular brands',
 				link: 'https://simpleicons.org/',
 				labels: ['free', 'open-source'],
-			},
-		],
-	},
-	{
-		type: 'Illustrations',
-		resources: [
-			{
-				title: 'Undraw',
-				description: 'A constantly updated collection of beautiful SVG images',
-				link: 'https://undraw.co/illustrations',
-				labels: ['free', 'open-source'],
-			},
-			{
-				title: 'manypixels',
-				description: 'Royalty-free illustrations',
-				link: 'https://gallery.manypixels.co/',
-				labels: ['free'],
-			},
-			{
-				title: 'IRA Design',
-				description: 'Build your own amazing illustrations',
-				link: 'https://iradesign.io/',
-				labels: ['free'],
-			},
-			{
-				title: 'Free Illustrations by Lukasz Adam',
-				description: 'Free SVG images',
-				link: 'https://lukaszadam.com/illustrations',
-				labels: ['free'],
 			},
 		],
 	},
@@ -220,6 +198,36 @@ const data = [
 		],
 	},
 	{
+		type: 'Illustrations',
+		resources: [
+			{
+				title: 'Undraw',
+				description: 'A constantly updated collection of beautiful SVG images',
+				link: 'https://undraw.co/illustrations',
+				labels: ['free', 'open-source'],
+			},
+			{
+				title: 'manypixels',
+				description: 'Royalty-free illustrations',
+				link: 'https://gallery.manypixels.co/',
+				labels: ['free'],
+			},
+			{
+				title: 'IRA Design',
+				description: 'Build your own amazing illustrations',
+				link: 'https://iradesign.io/gallery/illustrations',
+				labels: ['free'],
+			},
+			{
+				title: 'Free Illustrations by Lukasz Adam',
+				description: 'Free SVG images',
+				link: 'https://lukaszadam.com/illustrations',
+				labels: ['free'],
+			},
+		],
+	},
+
+	{
 		type: 'Images',
 		resources: [
 			{
@@ -273,7 +281,7 @@ const data = [
 			},
 			{
 				title: 'ImageResizer',
-				description: 'Resize and optimize images',
+				description: 'The fastest way to crop or resize an image online',
 				link: 'https://imageresize.org/',
 				labels: ['free'],
 			},
@@ -290,16 +298,10 @@ const data = [
 			},
 			{
 				title: 'Codewars',
-				description: 'Solve JavaScript challenges and learn from others',
+				description:
+					'Improve your skills by training with others on real code challenges',
 				link: 'https://www.codewars.com/',
 				labels: ['free'],
-			},
-			{
-				title: '30 seconds of code',
-				description:
-					'A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less',
-				link: 'https://30secondsofcode.org/',
-				labels: ['free', 'open-source'],
 			},
 			{
 				title: 'ValidateJavaScript',
@@ -314,13 +316,13 @@ const data = [
 		resources: [
 			{
 				title: 'Developer Roadmap',
-				description: 'Roadmap to becoming a web developer in 2019',
+				description: 'Roadmap to becoming a web developer in 2020',
 				link: 'https://github.com/kamranahmedse/developer-roadmap',
 				labels: ['free', 'open-source'],
 			},
 			{
 				title: 'Awesome Design Tools',
-				description: 'The best design tools for everything',
+				description: 'The best design tools and plugins for everything',
 				link: 'https://github.com/LisaDziuba/Awesome-Design-Tools',
 				labels: ['free', 'open-source'],
 			},
@@ -346,10 +348,9 @@ const data = [
 				labels: ['free', 'open-source'],
 			},
 			{
-				title: '30 Seconds of CSS',
-				description:
-					'A curated collection of useful CSS snippets you can understand in 30 seconds or less',
-				link: 'https://github.com/30-seconds/30-seconds-of-css',
+				title: '30 seconds of code',
+				description: 'Short code snippets for all your development needs',
+				link: 'https://30secondsofcode.org/',
 				labels: ['free', 'open-source'],
 			},
 		],
@@ -375,7 +376,7 @@ const data = [
 			{
 				title: "CS50's Web Programming with Python and JavaScript",
 				description:
-					'Design and implement web apps with Python, JavaScript, and SQL',
+					'Design and implement web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap',
 				link:
 					'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript',
 				labels: ['free'],
@@ -393,9 +394,9 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'HackerRank 2019 Developer Skills Report',
-				description: 'Insights based on 71,281 developers',
-				link: 'https://research.hackerrank.com/developer-skills/2019',
+				title: 'HackerRank 2020 Developer Skills Report',
+				description: 'Insights based on 116,648 developers',
+				link: 'https://research.hackerrank.com/developer-skills/2020',
 				labels: ['free'],
 			},
 			{
@@ -442,6 +443,12 @@ const data = [
 	{
 		type: 'General',
 		resources: [
+			{
+				title: 'Scrimba',
+				description: 'Learn to code with interactive tutorials',
+				link: 'https://scrimba.com/',
+				labels: ['free'],
+			},
 			{
 				title: 'Trello',
 				description:
@@ -543,6 +550,99 @@ const data = [
 				description: 'Cheap domain names',
 				link: 'https://www.namecheap.com/',
 				labels: ['premium'],
+			},
+		],
+	},
+	{
+		type: 'VS Code Extensions',
+		resources: [
+			{
+				title: 'Live Server',
+				description:
+					'Launch a development local Server with live reload feature for static & dynamic pages',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer',
+				labels: ['free'],
+			},
+			{
+				title: 'ESLint',
+				description: 'Integrates ESLint JavaScript into VS Code',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint',
+				labels: ['free'],
+			},
+			{
+				title: 'Prettier - Code formatter',
+				description: 'Code formatter using prettier',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode',
+				labels: ['free'],
+			},
+			{
+				title: 'HTML CSS Support',
+				description: 'CSS support for HTML documents',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css',
+				labels: ['free'],
+			},
+			{
+				title: 'colorize',
+				description: 'A vscode extension to help visualize css colors in files',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize',
+				labels: ['free'],
+			},
+			{
+				title: 'Bracket Pair Colorizer',
+				description:
+					'A customizable extension for colorizing matching brackets',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer',
+				labels: ['free'],
+			},
+			{
+				title: 'Image Preview',
+				description: 'Shows image preview in the gutter and on hover',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview',
+				labels: ['free'],
+			},
+			{
+				title: 'Comment Divider',
+				description: 'Divide your code by sections with styled separators',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider',
+				labels: ['free'],
+			},
+			{
+				title: 'Trailing Spaces',
+				description: 'Highlight trailing spaces and delete them in a flash',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces',
+				labels: ['free'],
+			},
+			{
+				title: 'Settings Sync',
+				description:
+					'Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using GitHub Gist',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync',
+				labels: ['free'],
+			},
+			{
+				title: 'Material Icon Theme',
+				description: 'Material Design Icons for Visual Studio Code',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme',
+				labels: ['free'],
+			},
+			{
+				title: 'Palenight Theme',
+				description:
+					'An elegant and juicy material-like theme for Visual Studio Code',
+				link:
+					'https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme',
+				labels: ['free'],
 			},
 		],
 	},
