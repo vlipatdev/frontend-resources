@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
+
 import Banner from './Banner';
 import Nav from './Nav';
 import Resources from './Resources';
 
+import './App.css';
+
 import data from './data';
 import undraw from './undraw-to-the-moon.png';
-import './App.css';
 
 class App extends Component {
 	static defaultProps = { data };
@@ -62,7 +64,7 @@ class App extends Component {
 							❤️
 						</span>
 					</p>
-				</footer>{' '}
+				</footer>
 			</div>
 		);
 	}

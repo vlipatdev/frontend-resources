@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Redirect } from 'react-router-dom';
+
 import Card from './Card';
+
 import './Resources.css';
 
 class Resources extends Component {

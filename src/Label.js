@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import './Label.css';
 
 class Label extends Component {

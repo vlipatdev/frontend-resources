@@ -18,9 +18,3 @@
 .Banner-link:hover {
 	color: white;
 }
-
-@media screen and (max-width: 768px) {
-	.Banner-text {
-		font-size: 1.4rem;
-	}
-}

@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
+
 import Label from './Label';
+
 import './Card.css';
 
 class Card extends Component {
