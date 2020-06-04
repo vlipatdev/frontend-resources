@@ -1,7 +1,7 @@
 .Card {
 	height: auto;
 	width: 30%;
-	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
 	display: inline-flex;
 	flex-direction: column;
 	border-radius: 5px;
@@ -14,7 +14,7 @@
 }
 .Card:hover {
 	transform: scale(1.05);
-	box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
 .Card-title {
