@@ -8,19 +8,18 @@
 }
 
 .Nav-navlink {
-	padding: 0.5rem 1rem;
+	padding: 0.75rem 1.25rem;
 	margin: 5px;
 	text-decoration: none;
 	background: #ffffff;
-	border: 1px solid #d1c4e9;
+	border: 1px solid #bcc2d6;
 	border-radius: 3px;
-	color: #7e57c2;
+	color: #7289da;
 }
 .Nav-navlink:hover,
 .active {
 	color: #ffffff;
-	background: #7e57c2;
-	background: linear-gradient(45deg, #7e57c2, #a044ff);
+	background: #7289da;
 	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
 }
 

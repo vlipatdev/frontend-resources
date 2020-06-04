@@ -5,12 +5,12 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	padding: 3rem 0;
+	padding: 5rem 0;
 }
 
 .App-logo {
 	height: 15rem;
-	width: 15rem;
+	width: auto;
 }
 
 .App-heading {
@@ -18,7 +18,7 @@
 }
 
 .App-subheading {
-	color: rgba(0, 0, 0, 0.8);
+	color: rgba(0, 0, 0, 0.6);
 	margin-bottom: 1rem;
 	width: 90%;
 }

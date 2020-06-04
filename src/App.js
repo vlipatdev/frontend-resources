@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
+import Banner from './Banner';
 import Nav from './Nav';
 import Resources from './Resources';
 
@@ -13,6 +14,7 @@ class App extends Component {
 	render() {
 		return (
 			<div className="App">
+				<Banner />
 				<header className="App-header">
 					<img className="App-logo" alt="site logo" src={undraw} />
 					<h1 className="App-heading">Front-end Resources</h1>
@@ -32,7 +34,6 @@ class App extends Component {
 					</a>
 					<Nav data={this.props.data} />
 				</header>
-
 				<Route
 					exact
 					path="/:name"
@@ -40,15 +41,14 @@ class App extends Component {
 						<Resources {...routeProps} data={this.props.data} />
 					)}
 				/>
-
 				<footer className="App-footer">
 					<p>
 						by <a href="https://github.com/vlipatdev">Val Lipat</a> with{' '}
 						<span role="img" aria-label="red heart emoji">
 							❤️
-						</span>{' '}
+						</span>
 					</p>
-				</footer>
+				</footer>{' '}
 			</div>
 		);
 	}

@@ -1,0 +1,25 @@
+.Banner {
+	height: 40px;
+	width: 100%;
+	background: #7289da;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Banner-text {
+	color: white;
+	font-size: 1.4rem;
+}
+
+.Banner-link,
+.Banner-link:visited,
+.Banner-link:hover {
+	color: white;
+}
+
+@media screen and (max-width: 768px) {
+	.Banner-text {
+		font-size: 1.4rem;
+	}
+}
