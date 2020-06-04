@@ -7,7 +7,7 @@ class Banner extends Component {
 		return (
 			<div className="Banner">
 				<p className="Banner-text">
-					Check out my first React Native project! <span> 🔬 </span>
+					Check out my first React Native project!{'  '}
 					<a
 						className="Banner-link"
 						href="https://play.google.com/store/apps/details?id=com.iridiumlab.sciencenews"
