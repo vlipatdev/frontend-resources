@@ -123,18 +123,6 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'Xicons',
-				description: 'Free (do whatever you want) vector icons',
-				link: 'https://www.xicons.co/',
-				labels: ['free'],
-			},
-			{
-				title: 'IconStore',
-				description: 'Free icons by first-class designers',
-				link: 'https://iconstore.co/',
-				labels: ['free'],
-			},
-			{
 				title: 'Simple Icons',
 				description: 'Free SVG icons for popular brands',
 				link: 'https://simpleicons.org/',
@@ -146,16 +134,16 @@ const data = [
 		type: 'Colors',
 		resources: [
 			{
+				title: 'Material Design Colors',
+				description: 'Material design colors',
+				link: 'https://www.materialui.co/colors',
+				labels: ['free'],
+			},
+			{
 				title: 'Flat UI Colors 2',
 				description:
 					'A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs',
 				link: 'https://flatuicolors.com/',
-				labels: ['free'],
-			},
-			{
-				title: 'Material Design Colors',
-				description: 'Material design colors',
-				link: 'https://www.materialui.co/colors',
 				labels: ['free'],
 			},
 			{
@@ -359,13 +347,6 @@ const data = [
 		type: 'Courses',
 		resources: [
 			{
-				title: 'Web Accessibility by Google',
-				description:
-					'Get hands-on experience making web applications accessible',
-				link: 'https://classroom.udacity.com/courses/ud891',
-				labels: ['free'],
-			},
-			{
 				title: "CS50's Introduction to Computer Science",
 				description:
 					"Harvard's introduction to the intellectual enterprises of computer science and the art of programming",
@@ -379,6 +360,13 @@ const data = [
 					'Design and implement web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap',
 				link:
 					'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript',
+				labels: ['free'],
+			},
+			{
+				title: 'Web Accessibility by Google',
+				description:
+					'Get hands-on experience making web applications accessible',
+				link: 'https://classroom.udacity.com/courses/ud891',
 				labels: ['free'],
 			},
 		],
@@ -429,6 +417,13 @@ const data = [
 				description: "A JavaScript and jQuery's developer guide",
 				link:
 					'https://addyosmani.com/resources/essentialjsdesignpatterns/book/',
+				labels: ['free'],
+			},
+			{
+				title: 'OWASP Top Ten',
+				description:
+					'Standard awareness document for developers and web application security',
+				link: 'https://owasp.org/www-project-top-ten/',
 				labels: ['free'],
 			},
 			{
