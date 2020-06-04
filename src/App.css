@@ -18,9 +18,11 @@
 }
 
 .App-subheading {
-	color: rgba(0, 0, 0, 0.6);
-	margin-bottom: 1rem;
+	color: #8f9bb3;
 	width: 90%;
+	font-size: 1.8rem;
+	margin-top: 0.5rem;
+	margin-bottom: 2rem;
 }
 
 .App-footer {

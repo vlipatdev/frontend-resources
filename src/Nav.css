@@ -12,7 +12,7 @@
 	margin: 5px;
 	text-decoration: none;
 	background: #ffffff;
-	border: 1px solid #bcc2d6;
+	border: 1px solid rgba(143, 155, 179, 0.16);
 	border-radius: 3px;
 	color: #7289da;
 }
