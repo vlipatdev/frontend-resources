@@ -401,6 +401,18 @@ const data = [
 				labels: ['premium'],
 			},
 			{
+				title: 'airbnb JavaScript Style Guide',
+				description: 'A mostly reasonable approach to JavaScript',
+				link: 'https://github.com/airbnb/javascript',
+				labels: ['free', 'open-source'],
+			},
+			{
+				title: 'JavaScript & jQuery',
+				description: 'A nicer way to learn JavaScript & jQuery',
+				link: 'http://javascriptbook.com/',
+				labels: ['premium'],
+			},
+			{
 				title: "You Don't Know JS",
 				description: 'A book series on JavaScript',
 				link: 'https://github.com/getify/You-Dont-Know-JS',
