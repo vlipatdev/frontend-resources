@@ -1,5 +1,5 @@
 .Resources {
-	background: rgba(114, 137, 218, 0.05);
+	background: #7289da;
 	padding: 5rem 3rem 1rem 3rem;
 	display: flex;
 	flex-direction: column;
@@ -12,6 +12,7 @@
 	margin-bottom: 2rem;
 	font-size: 2.5rem;
 	text-transform: uppercase;
+	color: white;
 }
 
 .Resources-card-container {
