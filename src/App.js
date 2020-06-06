@@ -8,7 +8,7 @@ import Resources from './Resources';
 import './App.css';
 
 import data from './data';
-import undraw from './undraw-to-the-moon.png';
+import undraw from './undraw-designer.png';
 
 class App extends Component {
 	static defaultProps = { data };
@@ -18,7 +18,7 @@ class App extends Component {
 			<div className="App">
 				<Banner />
 				<header className="App-header">
-					<img className="App-logo" alt="site logo" src={undraw} />
+					<img className="App-icon" alt="site icon" src={undraw} />
 					<h1 className="App-heading">Front-end Resources</h1>
 					<p className="App-subheading">
 						A curated collection of useful tools and websites for front-end web
@@ -59,7 +59,7 @@ class App extends Component {
 				/>
 				<footer className="App-footer">
 					<p>
-						by <a href="https://github.com/vlipatdev">Val Lipat</a> with{' '}
+						Made by <a href="https://github.com/vlipatdev">Val Lipat</a> with{' '}
 						<span role="img" aria-label="red heart emoji">
 							❤️
 						</span>
