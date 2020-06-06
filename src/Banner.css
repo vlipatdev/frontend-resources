@@ -5,7 +5,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 1rem 3rem;
+	padding: 1rem 2rem;
 	text-align: center;
 }
 
@@ -18,4 +18,10 @@
 .Banner-link:visited,
 .Banner-link:hover {
 	color: white;
+}
+
+@media screen and (max-width: 768px) {
+	.Banner-text {
+		font-size: 1.2rem;
+	}
 }

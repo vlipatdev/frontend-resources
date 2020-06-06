@@ -395,7 +395,7 @@ const data = [
 			},
 			{
 				title: 'Stack Overflow Developer Survey 2020',
-				description: 'Insights based on 65,000 developers',
+				description: 'Insights based on nearly 65,000 developers',
 				link: 'https://insights.stackoverflow.com/survey/2020',
 				labels: ['free'],
 			},

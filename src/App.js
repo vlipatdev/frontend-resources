@@ -22,7 +22,7 @@ class App extends Component {
 					<h1 className="App-heading">Front-end Resources</h1>
 					<p className="App-subheading">
 						A curated collection of useful tools and websites for front-end web
-						developers in 2020.
+						developers.
 					</p>
 					<div className="App-button-container">
 						<a
