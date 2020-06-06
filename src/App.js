@@ -38,7 +38,7 @@ class App extends Component {
 						<div className="App-button-divider" />
 						<a
 							class="github-button App-fork-button"
-							href="https://github.com/vlipatdev/frontend-resources"
+							href="https://github.com/vlipatdev/frontend-resources/fork"
 							data-icon="octicon-repo-forked"
 							data-size="large"
 							data-show-count="true"
