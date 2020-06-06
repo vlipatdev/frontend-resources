@@ -5,6 +5,7 @@
 	flex-wrap: wrap;
 	width: 60%;
 	margin-top: 3rem;
+	font-size: 1.8rem;
 }
 
 .Nav-navlink {
@@ -26,9 +27,6 @@
 @media screen and (max-width: 768px) {
 	.Nav {
 		width: 95%;
-	}
-
-	.Nav-navlink {
-		font-size: 1.4rem;
+		font-size: 1.6rem;
 	}
 }

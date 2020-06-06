@@ -292,9 +292,15 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'ValidateJavaScript',
-				description: 'Find and fix JavaScript errors',
-				link: 'https://validatejavascript.com/',
+				title: 'ESLint',
+				description: 'Find and fix problems in your JavaScript code',
+				link: 'https://eslint.org/',
+				labels: ['free'],
+			},
+			{
+				title: 'Prettier',
+				description: 'Opinionated Code Formatter',
+				link: 'https://prettier.io/',
 				labels: ['free'],
 			},
 		],
@@ -385,6 +391,12 @@ const data = [
 				title: 'HackerRank 2020 Developer Skills Report',
 				description: 'Insights based on 116,648 developers',
 				link: 'https://research.hackerrank.com/developer-skills/2020',
+				labels: ['free'],
+			},
+			{
+				title: 'Stack Overflow Developer Survey 2020',
+				description: 'Insights based on 65,000 developers',
+				link: 'https://insights.stackoverflow.com/survey/2020',
 				labels: ['free'],
 			},
 			{
@@ -485,6 +497,12 @@ const data = [
 				title: 'Blobmaker',
 				description: 'Online SVG blob maker',
 				link: 'https://www.blobmaker.app/',
+				labels: ['free'],
+			},
+			{
+				title: 'Get Waves',
+				description: 'Create SVG waves for your next design',
+				link: 'https://getwaves.io/',
 				labels: ['free'],
 			},
 			{

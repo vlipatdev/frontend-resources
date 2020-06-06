@@ -1,0 +1,21 @@
+.Banner {
+	min-height: 4rem;
+	width: 100%;
+	background: #7289da;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem 3rem;
+	text-align: center;
+}
+
+.Banner-text {
+	color: white;
+	font-size: 1.4rem;
+}
+
+.Banner-link,
+.Banner-link:visited,
+.Banner-link:hover {
+	color: white;
+}

@@ -14,13 +14,14 @@
 }
 
 .App-heading {
-	font-size: 2.4rem;
+	font-size: 3rem;
+	font-weight: 700;
 }
 
 .App-subheading {
 	color: #8f9bb3;
 	width: 90%;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	margin-top: 0.5rem;
 	margin-bottom: 2rem;
 }
@@ -49,7 +50,11 @@
 }
 
 @media screen and (max-width: 768px) {
+	.App-heading {
+		font-size: 2.4rem;
+	}
+
 	.App-subheading {
-		font-size: 1.4rem;
+		font-size: 1.6rem;
 	}
 }

@@ -1,11 +1,12 @@
 .Label {
-	font-size: 1rem;
+	font-size: 1.2rem;
 	padding: 3px 5px;
 	border-radius: 3px;
 	font-weight: 600;
 	text-transform: uppercase;
 	display: inline-block;
-	margin-right: 5px;
+	margin-right: 10px;
+	margin-top: 10px;
 }
 
 .open-source {
@@ -21,4 +22,10 @@
 .premium {
 	color: #ad1457;
 	background: #fce4ec;
+}
+
+@media screen and (max-width: 768px) {
+	.Label {
+		font-size: 1rem;
+	}
 }
