@@ -117,16 +117,16 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'IcoMoon',
-				description: 'Free 5500+ vector icons',
-				link: 'https://icomoon.io/',
-				labels: ['free'],
-			},
-			{
 				title: 'Simple Icons',
 				description: 'Free SVG icons for popular brands',
 				link: 'https://simpleicons.org/',
 				labels: ['free', 'open-source'],
+			},
+			{
+				title: 'IcoMoon',
+				description: 'Free 5500+ vector icons',
+				link: 'https://icomoon.io/',
+				labels: ['free'],
 			},
 		],
 	},
@@ -212,6 +212,18 @@ const data = [
 				link: 'https://lukaszadam.com/illustrations',
 				labels: ['free'],
 			},
+			{
+				title: 'Blobmaker',
+				description: 'Online SVG blob maker',
+				link: 'https://www.blobmaker.app/',
+				labels: ['free'],
+			},
+			{
+				title: 'Get Waves',
+				description: 'Create SVG waves for your next design',
+				link: 'https://getwaves.io/',
+				labels: ['free'],
+			},
 		],
 	},
 
@@ -268,9 +280,9 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'ImageResizer',
-				description: 'The fastest way to crop or resize an image online',
-				link: 'https://imageresize.org/',
+				title: 'Bulk Resize Photos',
+				description: 'The fastest online photo size reducer',
+				link: 'https://bulkresizephotos.com/en',
 				labels: ['free'],
 			},
 		],
@@ -315,12 +327,6 @@ const data = [
 				labels: ['free', 'open-source'],
 			},
 			{
-				title: 'Awesome Design Tools',
-				description: 'The best design tools and plugins for everything',
-				link: 'https://github.com/LisaDziuba/Awesome-Design-Tools',
-				labels: ['free', 'open-source'],
-			},
-			{
 				title: 'Front-end Developer Interview Questions',
 				description:
 					'A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore',
@@ -339,6 +345,12 @@ const data = [
 				description:
 					'The only Front-End Performance Checklist that runs faster than the others',
 				link: 'https://github.com/thedaviddias/Front-End-Performance-Checklist',
+				labels: ['free', 'open-source'],
+			},
+			{
+				title: 'Awesome Design Tools',
+				description: 'The best design tools and plugins for everything',
+				link: 'https://github.com/LisaDziuba/Awesome-Design-Tools',
 				labels: ['free', 'open-source'],
 			},
 			{
@@ -476,12 +488,6 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'Google Analytics',
-				description: 'Web analytics service offered by Google',
-				link: 'https://analytics.google.com/analytics/web/',
-				labels: ['free'],
-			},
-			{
 				title: 'Adobe XD',
 				description: 'Beginner-friendly prototyping software from Adobe',
 				link: 'https://www.adobe.com/products/xd.html',
@@ -494,22 +500,16 @@ const data = [
 				labels: ['free'],
 			},
 			{
-				title: 'Blobmaker',
-				description: 'Online SVG blob maker',
-				link: 'https://www.blobmaker.app/',
-				labels: ['free'],
-			},
-			{
-				title: 'Get Waves',
-				description: 'Create SVG waves for your next design',
-				link: 'https://getwaves.io/',
-				labels: ['free'],
-			},
-			{
 				title: 'Sizzy',
 				description: 'Browser made for responsive design',
 				link: 'https://sizzy.co/',
 				labels: ['premium'],
+			},
+			{
+				title: 'Google Analytics',
+				description: 'Web analytics service offered by Google',
+				link: 'https://analytics.google.com/analytics/web/',
+				labels: ['free'],
 			},
 			{
 				title: 'web.dev',
