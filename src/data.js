@@ -257,7 +257,7 @@ const data = [
 			},
 			{
 				title: 'Pixabay',
-				description: 'Stunning free images & royalty free stock',
+				description: 'Stunning free images & royalty-free stock',
 				link: 'https://pixabay.com/',
 				labels: ['free'],
 			},
@@ -356,7 +356,7 @@ const data = [
 			{
 				title: '30 seconds of code',
 				description: 'Short code snippets for all your development needs',
-				link: 'https://30secondsofcode.org/',
+				link: 'https://github.com/30-seconds/30-seconds-of-code',
 				labels: ['free', 'open-source'],
 			},
 		],
@@ -514,7 +514,7 @@ const data = [
 			{
 				title: 'web.dev',
 				description: 'See how well your website performs; uses Lighthouse',
-				link: 'https://web.dev/',
+				link: 'https://web.dev/measure/',
 				labels: ['free'],
 			},
 			{
