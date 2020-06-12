@@ -59,7 +59,7 @@ class App extends Component {
 				/>
 				<footer className="App-footer">
 					<p>
-						Made by <a href="https://github.com/vlipatdev">Val Lipat</a> with{' '}
+						Made by <a href="https://github.com/vlipatdev">vlipatdev</a> with{' '}
 						<span role="img" aria-label="red heart emoji">
 							❤️
 						</span>
