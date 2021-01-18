@@ -7,8 +7,8 @@ class Banner extends Component {
 		return (
 			<div className="Banner">
 				<p className="Banner-text">
-					Thanks for visiting! I would love to receive some feedback on my first
-					React Native project!
+					If you liked this list, you can support me by downloading my first
+					React Native app:
 					{'  '}
 					<a
 						className="Banner-link"
@@ -16,6 +16,7 @@ class Banner extends Component {
 					>
 						⚛ Science News
 					</a>
+					. Thank you!
 				</p>
 			</div>
 		);

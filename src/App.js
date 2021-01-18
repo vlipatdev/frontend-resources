@@ -16,7 +16,6 @@ class App extends Component {
 	render() {
 		return (
 			<div className="App">
-				{/* <Banner /> */}
 				<header className="App-header">
 					<img className="App-icon" alt="site icon" src={undraw} />
 					<h1 className="App-heading">Front-end Resources</h1>
@@ -65,6 +64,7 @@ class App extends Component {
 						</span>
 					</p>
 				</footer>
+				<Banner />
 			</div>
 		);
 	}
