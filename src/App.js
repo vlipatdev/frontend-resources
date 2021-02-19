@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
 
-import Banner from './Banner';
+// import Banner from './Banner';
 import Nav from './Nav';
 import Resources from './Resources';
 
@@ -64,7 +64,7 @@ class App extends Component {
 						</span>
 					</p>
 				</footer>
-				<Banner />
+				{/* <Banner /> */}
 			</div>
 		);
 	}
