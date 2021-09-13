@@ -3,7 +3,7 @@ import { Redirect } from 'react-router-dom';
 
 import Card from './Card';
 
-import './Resources.css';
+import '../styles/Resources.css';
 
 class Resources extends Component {
 	render() {

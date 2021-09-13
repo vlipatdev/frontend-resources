@@ -4,4 +4,4 @@
 
 Website: https://vlipatdev.github.io/frontend-resources/
 
-<img src="./src/preview.jpg"/>
+<img src="./src/assets/screenshot.jpg"/>

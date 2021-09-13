@@ -5,10 +5,10 @@ import { Route } from 'react-router-dom';
 import Nav from './Nav';
 import Resources from './Resources';
 
-import './App.css';
+import '../styles/App.css';
 
-import data from './data';
-import undraw from './undraw-designer.png';
+import data from '../data';
+import undraw from '../assets/undraw-designer.png';
 
 class App extends Component {
 	static defaultProps = { data };
@@ -20,8 +20,7 @@ class App extends Component {
 					<img className="App-icon" alt="site icon" src={undraw} />
 					<h1 className="App-heading">Front-end Resources</h1>
 					<p className="App-subheading">
-						A curated collection of useful tools and websites for front-end web
-						developers.
+						A curated collection of useful tools and websites for front-end web developers.
 					</p>
 					<div className="App-button-container">
 						<a
@@ -46,15 +45,12 @@ class App extends Component {
 							Fork
 						</a>
 					</div>
-
 					<Nav data={this.props.data} />
 				</header>
 				<Route
 					exact
 					path="/:name"
-					render={(routeProps) => (
-						<Resources {...routeProps} data={this.props.data} />
-					)}
+					render={(routeProps) => <Resources {...routeProps} data={this.props.data} />}
 				/>
 				<footer className="App-footer">
 					<p>

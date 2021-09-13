@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import Label from './Label';
 
-import './Card.css';
+import '../styles/Card.css';
 
 class Card extends Component {
 	render() {
