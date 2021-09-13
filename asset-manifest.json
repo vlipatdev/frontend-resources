@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-resources/static/css/main.04cc4e91.chunk.css",
+    "main.js": "/frontend-resources/static/js/main.216b15fd.chunk.js",
+    "main.js.map": "/frontend-resources/static/js/main.216b15fd.chunk.js.map",
+    "runtime-main.js": "/frontend-resources/static/js/runtime-main.596e8ca1.js",
+    "runtime-main.js.map": "/frontend-resources/static/js/runtime-main.596e8ca1.js.map",
+    "static/js/2.3dd36fe7.chunk.js": "/frontend-resources/static/js/2.3dd36fe7.chunk.js",
+    "static/js/2.3dd36fe7.chunk.js.map": "/frontend-resources/static/js/2.3dd36fe7.chunk.js.map",
+    "index.html": "/frontend-resources/index.html",
+    "precache-manifest.c9698f04d1a170b1c632794f5705d1aa.js": "/frontend-resources/precache-manifest.c9698f04d1a170b1c632794f5705d1aa.js",
+    "service-worker.js": "/frontend-resources/service-worker.js",
+    "static/css/main.04cc4e91.chunk.css.map": "/frontend-resources/static/css/main.04cc4e91.chunk.css.map",
+    "static/js/2.3dd36fe7.chunk.js.LICENSE.txt": "/frontend-resources/static/js/2.3dd36fe7.chunk.js.LICENSE.txt",
+    "static/media/undraw-designer.png": "/frontend-resources/static/media/undraw-designer.adf4518b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.596e8ca1.js",
+    "static/js/2.3dd36fe7.chunk.js",
+    "static/css/main.04cc4e91.chunk.css",
+    "static/js/main.216b15fd.chunk.js"
+  ]
+}
