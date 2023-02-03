@@ -183,6 +183,13 @@ const data = [
 				link: 'http://www.uigradients.com/',
 				labels: ['free', 'open-source'],
 			},
+			{
+				title: 'Branition Colors',
+				description:
+					'Hand-curated collection of color palettes best fitted for branding.',
+				link: 'https://branition.com/colors/',
+				labels: ['free'],
+			},
 		],
 	},
 	{
